@@ -409,4 +409,4 @@ export class SageMakerTrainXgboostAction extends Hub.Action {
 
 }
 
-Hub.addAction(new SageMakerTrainXgboostAction())
+// Hub.addAction(new SageMakerTrainXgboostAction())

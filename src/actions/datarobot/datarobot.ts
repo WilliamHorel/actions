@@ -127,4 +127,4 @@ export class DataRobotAction extends Hub.Action {
   }
 }
 
-Hub.addAction(new DataRobotAction())
+// Hub.addAction(new DataRobotAction())

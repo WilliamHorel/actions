@@ -18,4 +18,4 @@ export class SegmentGroupAction extends SegmentAction {
 
 }
 
-Hub.addAction(new SegmentGroupAction())
+// Hub.addAction(new SegmentGroupAction())

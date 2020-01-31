@@ -122,4 +122,4 @@ export class GoogleCloudStorageAction extends Hub.Action {
 
 }
 
-Hub.addAction(new GoogleCloudStorageAction())
+// Hub.addAction(new GoogleCloudStorageAction())

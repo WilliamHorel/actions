@@ -109,4 +109,4 @@ export class TwilioMessageAction extends Hub.Action {
 
 }
 
-Hub.addAction(new TwilioMessageAction())
+// Hub.addAction(new TwilioMessageAction())

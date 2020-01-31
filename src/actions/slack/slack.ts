@@ -150,4 +150,4 @@ export class SlackAction extends Hub.DelegateOAuthAction {
   }
 }
 
-Hub.addAction(new SlackAction())
+// Hub.addAction(new SlackAction())

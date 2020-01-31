@@ -23,4 +23,4 @@ export class TrayAction extends WebhookAction {
 
 }
 
-Hub.addAction(new TrayAction())
+// Hub.addAction(new TrayAction())

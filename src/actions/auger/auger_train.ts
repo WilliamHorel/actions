@@ -472,4 +472,4 @@ export class AugerTrainAction extends Hub.Action {
   }
 }
 
-Hub.addAction(new AugerTrainAction())
+// Hub.addAction(new AugerTrainAction())

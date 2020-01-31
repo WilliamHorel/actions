@@ -107,4 +107,4 @@ export class AzureStorageAction extends Hub.Action {
 
 }
 
-Hub.addAction(new AzureStorageAction())
+// Hub.addAction(new AzureStorageAction())

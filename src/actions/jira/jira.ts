@@ -130,4 +130,4 @@ export class JiraAction extends Hub.Action {
 
 }
 
-Hub.addAction(new JiraAction())
+// Hub.addAction(new JiraAction())

@@ -80,4 +80,4 @@ export class DigitalOceanDropletAction extends Hub.Action {
 
 }
 
-Hub.addAction(new DigitalOceanDropletAction())
+// Hub.addAction(new DigitalOceanDropletAction())

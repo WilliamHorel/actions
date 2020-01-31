@@ -27,4 +27,4 @@ export class SegmentTrackAction extends SegmentAction {
 
 }
 
-Hub.addAction(new SegmentTrackAction())
+// Hub.addAction(new SegmentTrackAction())

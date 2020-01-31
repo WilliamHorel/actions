@@ -353,4 +353,4 @@ export class SageMakerInferAction extends Hub.Action {
 
 }
 
-Hub.addAction(new SageMakerInferAction())
+// Hub.addAction(new SageMakerInferAction())

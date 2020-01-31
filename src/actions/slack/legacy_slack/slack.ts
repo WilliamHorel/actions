@@ -44,4 +44,4 @@ https://github.com/looker/actions/blob/master/src/actions/slack/legacy_slack/REA
 
 }
 
-Hub.addAction(new SlackAttachmentAction())
+// Hub.addAction(new SlackAttachmentAction())

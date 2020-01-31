@@ -94,4 +94,4 @@ export class AirtableAction extends Hub.Action {
 
 }
 
-Hub.addAction(new AirtableAction())
+// Hub.addAction(new AirtableAction())
